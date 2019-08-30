@@ -1,0 +1,14 @@
+front/.DS_Store
+front/node_modules/
+front/dist/
+front/npm-debug.log
+back/vendor
+back/node_modules
+back/.env
+back/public/app
+back/public/image/paths
+back/public/image/profile
+back/settings.json
+back/.vscode/
+back/cert/*.pem
+back/.idea/*
